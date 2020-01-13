@@ -4,6 +4,11 @@ Email: exle9710@mylaurier.ca
 Assignment_ID: CP476A0
 Homework statement: I claim that the enclosed submission is my individual work
 
+Link to your web page: https://hopper.wlu.ca/~exle9710/
+
+
+Other links
+
 Link to the github account: https://github.com/AaronE314
 
 Link to project on github: https://github.com/AaronE314/CP476
