@@ -51,6 +51,7 @@ h3 {
 
 h4 {
    font-size: 15px;
+   margin: 10px;
    margin-bottom: 0;
 }
 
@@ -270,12 +271,12 @@ select::-moz-focus-inner {
 
 }
 
-input[type="date"]:in-range::-webkit-datetime-edit-year-field, 
+/* input[type="date"]:in-range::-webkit-datetime-edit-year-field, 
 input[type="date"]:in-range::-webkit-datetime-edit-month-field, 
 input[type="date"]:in-range::-webkit-datetime-edit-day-field, 
 input[type="date"]:in-range::-webkit-datetime-edit-text  { 
    color: transparent; 
-}
+} */
 
 input[type="date"] {
    -moz-appearance: textfield;
